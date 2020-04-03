@@ -1,3 +1,4 @@
 # roleBasedAccessControl
-This depictd Role Based Access Control in Node.js
-Use be simulated using Postman.
+This depicts Role Based Access Control in Node.js
+<br>
+Can be simulated using Postman.
